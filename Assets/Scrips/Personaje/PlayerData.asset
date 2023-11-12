@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46eaee30efde14a4cb29a050acc86934, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  fuerzaSalto: 7
+  jumpSFX: {fileID: 8300000, guid: 24ae72e3691824f459547d215c22c0e2, type: 3}
+  collisionSFX: {fileID: 8300000, guid: aeb0014a2a9fd01478be34576dd3bf7a, type: 3}
+  velocidad: 5
+  vida: 3
